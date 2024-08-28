@@ -1,2 +1,2 @@
 # CasosdeJs
-alguns caos de JS disponíveis
+alguns casos de JS disponíveis
